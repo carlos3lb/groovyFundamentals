@@ -2,7 +2,7 @@
 Groovy fundamentals course
 
 ## what is Groovy?
-Jvn language with this characteristics:
+JVM language with this characteristics:
 - Dynamic language
 - Compile to JVM bytecode
 - Functional programing
@@ -29,6 +29,9 @@ After installation is complete and you’ve made it your default version, test i
 $ groovy -version
 ```
 That’s all there is to it!
+
+### IDE
+For eclipse, here you can find the [links](https://github.com/groovy/groovy-eclipse/wiki).
 
 ## Groovy Shell
 Start with:
