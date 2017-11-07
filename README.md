@@ -1,0 +1,2 @@
+# groovyFundamentals
+Groovy fundamentals course
