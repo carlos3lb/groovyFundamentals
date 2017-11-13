@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<gpx
+  version="1.0"
+  creator="VB Net GPS:  vermeiren-willy@pandora.be"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<bounds minlat="50.835843" minlon="4.371872" maxlat="50.845113" maxlon="4.384317"/>
+
+<wpt lat="50.842452" lon="4.383416">
+   <name>START</name>
+</wpt>
+
+<rte>
+  <name>Brussel door Europa Schumanplein   5 km RT</name>
+    <rtept lat="50.842452" lon="4.383416">
+      <name>1</name>
+      <cmt>001</cmt>
+    </rtept>
+    <rtept lat="50.845113" lon="4.379168">
+      <name>2</name>
+      <cmt>004</cmt>
+    </rtept>
+    <rtept lat="50.844297" lon="4.379253">
+      <name>3</name>
+      <cmt>005</cmt>
+    </rtept>
+    <rtept lat="50.844641" lon="4.377708">
+      <name>4</name>
+      <cmt>006</cmt>
+    </rtept>
+    <rtept lat="50.843525" lon="4.378223">
+      <name>5</name>
+      <cmt>007</cmt>
+    </rtept>
+    <rtept lat="50.842532" lon="4.378249">
+      <name>6</name>
+      <cmt>008</cmt>
+    </rtept>
+    <rtept lat="50.841379" lon="4.379039">
+      <name>7</name>
+      <cmt>009</cmt>
+    </rtept>
+    <rtept lat="50.84065" lon="4.377322">
+      <name>8</name>
+      <cmt>010</cmt>
+    </rtept>
+    <rtept lat="50.841293" lon="4.374361">
+      <name>9</name>
+      <cmt>011</cmt>
+    </rtept>
+    <rtept lat="50.837688" lon="4.372473">
+      <name>10</name>
+      <cmt>012</cmt>
+    </rtept>
+    <rtept lat="50.837302" lon="4.371872">
+      <name>11</name>
+      <cmt>013</cmt>
+    </rtept>
+    <rtept lat="50.835886" lon="4.373674">
+      <name>12</name>
+      <cmt>014</cmt>
+    </rtept>
+    <rtept lat="50.835843" lon="4.374619">
+      <name>13</name>
+      <cmt>015</cmt>
+    </rtept>
+    <rtept lat="50.836331" lon="4.374415">
+      <name>14</name>
+      <cmt>016</cmt>
+    </rtept>
+    <rtept lat="50.838075" lon="4.375176">
+      <name>15</name>
+      <cmt>017</cmt>
+    </rtept>
+    <rtept lat="50.837517" lon="4.376035">
+      <name>16</name>
+      <cmt>019</cmt>
+    </rtept>
+    <rtept lat="50.83831" lon="4.377849">
+      <name>17</name>
+      <cmt>022</cmt>
+    </rtept>
+    <rtept lat="50.838905" lon="4.378511">
+      <name>18</name>
+      <cmt>023</cmt>
+    </rtept>
+    <rtept lat="50.839319" lon="4.378181">
+      <name>19</name>
+      <cmt>024</cmt>
+    </rtept>
+    <rtept lat="50.840049" lon="4.37921">
+      <name>20</name>
+      <cmt>026</cmt>
+    </rtept>
+    <rtept lat="50.839877" lon="4.37964">
+      <name>21</name>
+      <cmt>027</cmt>
+    </rtept>
+    <rtept lat="50.839877" lon="4.379983">
+      <name>22</name>
+      <cmt>028</cmt>
+    </rtept>
+    <rtept lat="50.838958" lon="4.38034">
+      <name>23</name>
+      <cmt>029</cmt>
+    </rtept>
+    <rtept lat="50.838161" lon="4.380112">
+      <name>24</name>
+      <cmt>030</cmt>
+    </rtept>
+    <rtept lat="50.83786" lon="4.380713">
+      <name>25</name>
+      <cmt>031</cmt>
+    </rtept>
+    <rtept lat="50.837688" lon="4.380713">
+      <name>26</name>
+      <cmt>032</cmt>
+    </rtept>
+    <rtept lat="50.837646" lon="4.380455">
+      <name>27</name>
+      <cmt>033</cmt>
+    </rtept>
+    <rtept lat="50.835929" lon="4.379382">
+      <name>28</name>
+      <cmt>035</cmt>
+    </rtept>
+    <rtept lat="50.83641" lon="4.380024">
+      <name>29</name>
+      <cmt>036</cmt>
+    </rtept>
+    <rtept lat="50.836573" lon="4.381227">
+      <name>30</name>
+      <cmt>037</cmt>
+    </rtept>
+    <rtept lat="50.839834" lon="4.382472">
+      <name>31</name>
+      <cmt>038</cmt>
+    </rtept>
+    <rtept lat="50.839748" lon="4.383545">
+      <name>32</name>
+      <cmt>039</cmt>
+    </rtept>
+    <rtept lat="50.841594" lon="4.384317">
+      <name>33</name>
+      <cmt>040</cmt>
+    </rtept>
+    <rtept lat="50.842023" lon="4.38406">
+      <name>34</name>
+      <cmt>041</cmt>
+    </rtept>
+</rte>
+</gpx>
